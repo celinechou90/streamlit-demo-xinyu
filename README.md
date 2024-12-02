@@ -19,5 +19,6 @@ and click the link provided.
 
 ## Project Description
 
-My Module 4 project shows how a Streamlit app can be used to work with Seattle data. It lets us view GeoJSON files, run SQL queries, and ask questions about the data using plain language. This makes it easier to understand and analyze maps and statistics.
+Name - Xinyu Zhou
+Description - My Module 4 project shows how a Streamlit app can be used to work with Seattle data. It lets us view GeoJSON files, run SQL queries, and ask questions about the data using plain language. This makes it easier to understand and analyze maps and statistics.
 
